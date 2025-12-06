@@ -1,5 +1,5 @@
 ## 👋 About Me
-Hi, I'm Niki! A cybersecurity enthusiast passionate about **offensive security** and **network security**. I learn through hands-on practice, CTF challenges, and real-world simulations on TryHackMe.
+Hi, I'm Nikita! A cybersecurity enthusiast passionate about **offensive security** and **network security**. I learn through hands-on practice, CTF challenges, and real-world simulations on TryHackMe.
 
 ## 🏆 Completed Learning Paths
 ### TryHackMe - Cyber Security 101 (45+ hours)
