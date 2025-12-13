@@ -14,5 +14,8 @@
 - **Completion Date**: December 2025
 - **Key Takeaway**: Understood fundamental web vulnerabilities and exploitation techniques
 
+### ✅ [Krypton](Krypton/) - Cryptography
+- **Levels**: 0-7 completed
+- **Completion Date**: December 2025
 
-!!!The rest will be decided soon.
+!!!The rest will be decided soon. Krypton
